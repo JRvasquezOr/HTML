@@ -1,0 +1,23 @@
+img {
+  width: 300px;
+}
+
+.bordes-redondeados {
+  border-radius: 20px;
+}
+
+div {
+   background-color: blue;
+}
+
+div {
+  background-color: crimson;
+}
+
+img {
+  padding: 15px;
+  background-color: yellow;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
